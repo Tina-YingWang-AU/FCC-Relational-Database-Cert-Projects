@@ -22,9 +22,9 @@ This repository is a centralized portfolio of five professional-grade database p
 * **Focus**: ETL (Extract, Transform, Load) Pipeline.
 * **Key Achievement**: Developed a Bash script to automate the migration of tournament data from CSV to PostgreSQL. Implemented complex SQL queries to extract historical performance analytics.
 
-### [03. Salon Appointment Scheduler](./03-Salon-Scheduler/)
+### [03. Salon Appointment Scheduler](./03-Salon-Appointment-Scheduler/)
 * **Focus**: Full-stack CLI Application.
-* **Key Achievement**: Built an interactive appointment system that manages customer registration and scheduling in real-time, utilizing Bash for logic flow and SQL for persistent storage.
+* **Key Achievement**: Built an interactive appointment system that manages customer registration and scheduling in real-time.
 
 ### [04. Periodic Table Database](./04-Periodic-Table-Database/)
 * **Focus**: Database Refactoring & Data Cleaning.
