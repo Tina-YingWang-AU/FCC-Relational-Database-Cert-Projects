@@ -1,0 +1,19 @@
+# Database exports (optional: keep if you want to store small dumps, ignore if large)
+*.sql.gz
+*.dump
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Shell/Bash temp files
+*.tmp
+*.log
+
+# Sensitive environment variables (if any)
+.env
